@@ -1,3 +1,6 @@
 deneme1.txt
 deneme2.txt
 deneme3.txt
+belgeler/*
+!belgler/dosya1.html
+!belgeler/dosya1.html
