@@ -1,7 +1,11 @@
 def topla(x,y):
     return x + y
+
+def hello():
+    print("Merhaba Dünya")
     
 a = int(input("Lütfen birinci sayıyı girin :"))
 b = int(input("Lütfen ikinci sayıyı girin :"))
 
 print(topla(a,b))
+hello()
