@@ -13,3 +13,8 @@ b = int(input("Lütfen ikinci sayıyı girin :"))
 print(topla(a,b))
 hello()
 carpma(a,b)
+
+
+## deneme123 ##
+#sahgdjhas
+
