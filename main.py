@@ -22,3 +22,5 @@ carpma(a,b)
 
 #diff deneme
 
+#merge deneme2
+
