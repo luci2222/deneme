@@ -20,5 +20,5 @@ carpma(a,b)
 #abcde
 #main değişikliği
 
-#merge deneme1
+#diff deneme
 
